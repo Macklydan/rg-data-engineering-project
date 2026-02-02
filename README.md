@@ -89,3 +89,6 @@ To meet these requirements, the solution is broken down into the following compo
 ## Conclusion
 
 This project provides a robust end-to-end solution for understanding customer demographics and their impact on sales. The automated data pipeline ensures that stakeholders always have access to the most current and actionable insights.
+
+
+
